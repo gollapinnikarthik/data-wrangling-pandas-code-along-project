@@ -13,15 +13,15 @@ The Indian Premier League (IPL) is a professional T20 cricket league in India co
 
 ### Learnings from the project
 
-Reading the data using read_csv 
-Using unique function in pandas module
-Difference between series and a dataframe
-Creating addational dataframes using conditional filtering 
-Difference between unique and nunique and using sort_values function ascending as well as descending
-Using apply on data frame using lamda function 
-Using groupby function and apply aggegrate on those saved variables
-Filling null values and finding out the null values 
-Removing duplicates values and resetting index 
+Reading the data using read_csv.
+Using unique function in pandas module.
+Difference between series and a dataframe.
+Creating addational dataframes using conditional filtering.
+Difference between unique and nunique and using sort_values function ascending as well as descending.
+Using apply on data frame using lamda function.
+Using groupby function and apply aggegrate on those saved variables.
+Filling null values and finding out the null values. 
+Removing duplicates values and resetting index.
 
 
 ### Approach taken to solve the problem
